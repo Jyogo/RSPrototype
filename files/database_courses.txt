@@ -1,0 +1,16 @@
+course-v1%3AMicrosoft%2BCLD208.3x%2B3T2017
+course-v1%3AMicrosoft%2BDAT201x%2B3T2017
+course-v1%3AMicrosoft%2BDAT209x%2B3T2017
+course-v1%3AMicrosoft%2BDAT215.1x%2B3T2017
+course-v1%3AMicrosoft%2BDAT215.2x%2B3T2017
+course-v1%3AMicrosoft%2BDAT215.3x%2B3T2017
+course-v1%3AMicrosoft%2BDAT215.4x%2B3T2017
+course-v1%3AMicrosoft%2BDAT215.5x%2B4T2017
+course-v1%3AMicrosoft%2BDAT216x%2B3T2017
+course-v1%3AMicrosoft%2BDAT219x%2B3T2017
+course-v1%3AMicrosoft%2BDAT221x%2B2T2017
+course-v1%3AMicrosoft%2BDAT225x%2B3T2017
+course-v1%3AMicrosoft%2BDEV205Bx%2B3T2017
+course-v1%3AMicrosoft%2BDEV256x%2B2T2017
+course-v1%3AMicrosoft%2BDEV280x%2B2T2017
+course-v1%3AUC3Mx%2BIM.1x%2B1T2017

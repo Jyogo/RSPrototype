@@ -1,0 +1,13 @@
+course-v1%3ALinuxFoundationX%2BLFS152x%2B3T2016
+course-v1%3AMicrosoft%2BDAT202.3x%2B3T2017
+course-v1%3AMicrosoft%2BDAT203.1x%2B3T2017
+course-v1%3AMicrosoft%2BDAT203.2x%2B3T2017
+course-v1%3AMicrosoft%2BDAT203.3x%2B3T2017
+course-v1%3AMicrosoft%2BDAT210x%2B3T2017
+course-v1%3AMicrosoft%2BDAT211x%2B3T2017
+course-v1%3AMicrosoft%2BDAT228x%2B2T2017
+course-v1%3AMicrosoft%2BDAT236x%2B2T2017
+course-v1%3AMicrosoft%2BINF215x%2B2T2017
+course-v1%3AMicrosoft%2BINF216x%2B2T2017
+course-v1%3ARedHat%2BRH066x%2B2T2017
+course-v1%3AUCSDx%2BCSE167x%2B1T2017
